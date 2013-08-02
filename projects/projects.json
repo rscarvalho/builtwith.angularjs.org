@@ -1609,6 +1609,22 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "PyRegex",
+      "thumb": "pyregex/thumb.png",
+      "desc": "PyRegex is an online regular expression tester for Python",
+      "url": "http://www.pyregex.com/",
+      "submitter": "rscarvalho",
+      "src": "https://www.github.com/rscarvalho/pyregex",
+      "submissionDate": "2013-08-02",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Regular Expressions",
+        "Python", "Google AppEngine",
+        "Tests Included", "Open Source"
+      ]
     }
   ]
 }
